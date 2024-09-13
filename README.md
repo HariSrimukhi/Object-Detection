@@ -1,5 +1,5 @@
 # Object-Detection
-Used roboflow for detecting objects and used input dataset from the universe which is pre trained(yolov8 AI model). This detection can be used in agriculture,medical fields also.
+This project focuses on “Object Detection”  using the (YOLOv8 AI model) pre-trained with a dataset from the universe. Roboflow is utilized for effective object detection by handling data annotation and model training. The system can be applied across various fields, including agriculture for crop monitoring and medical fields for analyzing medical images. The integration of Roboflow and YOLOv8 ensures high accuracy and adaptability for diverse use cases.
 
 Link to the Project:
 https://app.roboflow.com/srimukhi-nrqio/detection-umnra/annotate
